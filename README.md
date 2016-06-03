@@ -1,6 +1,7 @@
 # TodoMVC in Elm - [Try It!](http://evancz.github.io/elm-todomvc)
 
 - added on the upstream
+- added again on the upstream
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/kgashok/elm-todomvc/tree/heroku)
 
