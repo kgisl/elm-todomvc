@@ -1,6 +1,6 @@
 # TodoMVC in Elm - [Try It!](http://evancz.github.io/elm-todomvc)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/srid/elm-todomvc/tree/heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/kgashok/elm-todomvc/tree/heroku)
 
 All of the Elm code lives in `Todo.elm` and relies on the [elm-lang/html][html] library. 
 
